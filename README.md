@@ -36,6 +36,17 @@ Primary keys
 Foreign keys
 Data types for each column
 
+The ERD for this project is in the PNG folder. 
+
+# Deliverable 1: The Number of Retiring Employees by Title
+Using the ERD you created in this module as a reference and your knowledge of SQL queries, create a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Because some employees may have multiple titles in the database—for example, due to promotions—you’ll need to use the DISTINCT ON statement to create a table that contains the most recent title of each employee. Then, use the COUNT() function to create a final table that has the number of retirement-age employees by most recent job title.
+
+A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955
+The Retirement Titles table is exported as retirement_titles.csv
+
+A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring.
+The Retiring Titles table is exported as retiring_titles.csv
+
 
 
 
