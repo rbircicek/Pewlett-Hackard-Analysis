@@ -24,5 +24,18 @@ Software: pgAdmin 4.26, Python 3.8.3
 
 Database Keys: Database keys identify records from tables and establish relationships between tables. There are many types of keys. For this project, the  focus will be on  primary keys and foreign keys.
 
-Primary Keys: The departments.csv file has a dept_no column with unique identifiers for each row (one department number per department). For example, d001 will always reference the Marketing department, across other worksheets. This unique identifier is known as a primary key. Primary keys are an important part of database design. When a database is being created, each table added must include a primary key in the architecture. Primary keys serve as a link between these tables
+Primary Keys: The departments.csv file has a dept_no column with unique identifiers for each row (one department number per department). For example, d001 will always reference the Marketing Department, across other worksheets. This unique identifier is known as a primary key. Primary keys are an important part of database design. When a database is being created, each table added must include a primary key in the architecture. Primary keys serve as a link between these tables.
+
+Foreign Keys: Foreign keys are just as important as primary keys. While primary keys contain unique identifiers for their dataset, a foreign key references another dataset's primary key. This is like a phone number. You have your own phone number. It's your number, assigned to your phone, and unique to you. Even other carriers cannot assign this number to their customers. This is your primary key. Your friends and family members also have a primary key: their own phone number.
+When you save their numbers in your phone, you're creating a reference to these people, also known as foreign keys. Your phone has lots of foreign keys (such as doctors offices, friends, and other family members), but only one primary key.
+
+# Entity Relationship Diagrams (ERD)
+An entity relationship diagram (ERD) is a type of flowchart that highlights different tables and their relationships to each other. The ERD does not include any actual data, but it does capture the following pertinent information from each CSV file:
+
+Primary keys
+Foreign keys
+Data types for each column
+
+
+
 
