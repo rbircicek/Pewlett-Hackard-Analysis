@@ -47,9 +47,18 @@ The Retirement Titles table is exported as retirement_titles.csv
 A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring.
 The Retiring Titles table is exported as retiring_titles.csv
 
-![image](https://user-images.githubusercontent.com/96134924/164122717-1c3548c5-48fe-48cf-b5ef-1a601c5bae98.png)
+Please see the PNG and CSV Folders.
 
+# Deliverable 2: The Employees Eligible for the Mentorship Program
 
+Deliverable Requirements:
+
+Using the ERD you created in this module as a reference and your knowledge of SQL queries, create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
+
+A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
+The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv
+
+A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 
 
 
