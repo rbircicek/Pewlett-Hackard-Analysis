@@ -22,3 +22,7 @@ Software: pgAdmin 4.26, Python 3.8.3
 
 # Important Keys to know
 
+Database Keys: Database keys identify records from tables and establish relationships between tables. There are many types of keys. For this project, the  focus will be on  primary keys and foreign keys.
+
+Primary Keys: The departments.csv file has a dept_no column with unique identifiers for each row (one department number per department). For example, d001 will always reference the Marketing department, across other worksheets. This unique identifier is known as a primary key. Primary keys are an important part of database design. When a database is being created, each table added must include a primary key in the architecture. Primary keys serve as a link between these tables
+
