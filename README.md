@@ -47,6 +47,11 @@ The Retirement Titles table is exported as retirement_titles.csv
 A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring.
 The Retiring Titles table is exported as retiring_titles.csv
 
+![image](https://user-images.githubusercontent.com/96134924/164122717-1c3548c5-48fe-48cf-b5ef-1a601c5bae98.png)
+
+
+
+
 
 
 
