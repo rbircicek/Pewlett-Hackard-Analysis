@@ -60,6 +60,17 @@ The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.
 
 A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 
+# Analysis
+
+There is a large number of staff members that are eligible for retirement. The breakdown by the job title is given below.  
+
+![Retiring Titles](https://user-images.githubusercontent.com/96134924/164143509-3d25922d-15f8-42c6-b9b7-de44c59094ae.png)
+
+
+
+
+
+
 
 
 
