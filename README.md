@@ -66,10 +66,7 @@ There is a large number of staff members that are eligible for retirement. The b
 
 ![Retiring Titles](https://user-images.githubusercontent.com/96134924/164143509-3d25922d-15f8-42c6-b9b7-de44c59094ae.png)
 
-There are 90,398 positions need to be filled as the silver tsunami begins to make an impact on the company's business affairs. 
-
-
-
+There are 90,398 positions in total need to be filled as the silver tsunami begins to make an impact on the company's business affairs. Since there are 1940 employees are eligible to participate in the mentorship program, there are not enough qualified, retirment-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. The data give us the ratio of 1/47, which means 1 mentor is need for each 47 mentee. 
 
 
 
